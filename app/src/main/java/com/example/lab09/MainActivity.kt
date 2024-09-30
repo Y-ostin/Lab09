@@ -1,5 +1,7 @@
 package com.example.lab09
 
+import ScreenPost
+import ScreenPosts
 import android.os.Bundle
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
